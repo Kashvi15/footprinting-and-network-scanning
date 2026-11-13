@@ -22,9 +22,9 @@ Performed using six Kali Linux tools:
 
 **1. WHOIS – Domain Registration Information**
 
-![WHOIS](screenshots/whois.png)
-![WHOIS](screenshots/whois2.png)
-![WHOIS](screenshots/whois3.png)
+![WHOIS](screenshots/whois.jpg)
+![WHOIS](screenshots/whois2.jpg)
+![WHOIS](screenshots/whois3.jpg)
 
 **2. WhatWeb – Website Technology Identification**
 
