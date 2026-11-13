@@ -1,3 +1,4 @@
+
 # Footprinting and Network Scanning
 
 ## About This Repository
@@ -17,11 +18,40 @@ Performed using six Kali Linux tools:
 - WAFW00F – Web Application Firewall detection
 - DNSRecon – DNS enumeration
 
+#### Practical Screenshots
+
+**1. WHOIS – Domain Registration Information**
+
+![WHOIS](screenshots/whois.png)
+![WHOIS](screenshots/whois2.png)
+![WHOIS](screenshots/whois3.png)
+
+**2. WhatWeb – Website Technology Identification**
+
+![WhatWeb](screenshots/whatweb.png)
+
+**3. Nslookup – DNS Lookup**
+
+![Nslookup](screenshots/nslookup.png)
+
+**4. cURL – HTTP Response Header Analysis**
+
+![cURL](screenshots/curl.png)
+
+**5. WAFW00F – Web Application Firewall Detection**
+
+![WAFW00F](screenshots/wafw00f.png)
+
+**6. DNSRecon – DNS Enumeration**
+
+![DNSRecon](screenshots/dnsrecon.png)
+
 ### 2. Network Scanning using Zenmap
 
 Performed on my own local network using Zenmap (Nmap GUI).
 
 Activities included:
+
 - Identifying local IP configuration and LAN subnet
 - Discovering live hosts
 - Counting active hosts
@@ -29,6 +59,16 @@ Activities included:
 - Visualising network topology
 
 **Result:** 5 live hosts discovered.
+
+#### Network Scanning Screenshots
+
+**1. Zenmap – Network Scan Results**
+
+![Zenmap Scan](screenshots/list_of_live_hosts.png)
+
+**2. Network Topology**
+
+![Network Topology](screenshots/network_topology.png)
 
 ## Project Report
 
